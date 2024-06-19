@@ -1,4 +1,4 @@
-# launchyxl
+# Launchy XL
 Quick Launcher for Excel
 
 Launchy XL is a small & lightweight Excel addin to help you quickly and easily find your favorite files – without coding a single line yourself.
