@@ -9,10 +9,6 @@ You can always open the LaunchyXL.xlam directly in Excel, to have the functional
 The preferred method is to add the file as an Excel addin.
 
 It's possible to share a collection of lists (via a config file) with a team - to further improve productivity.
-It's possible to edit the collection of links via the addin itself - or via any text editor. The logic is as simple as 
-<id>,<filepath>,<description>
-i.e -->
-Google,http://www.google.com,The Google Search engine
-Projects,X:\Projects\live.xlsx,Overview of ongoing projects
-Holiday,Y:\administration\holiday.xslx
-New Project, X:\Projects\New project template.docx,The template used for new projects
+It's possible to edit the collection of links via the addin itself - or via any text editor. The logic is as simple as:
+
+id,filepath,description
